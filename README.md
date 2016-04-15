@@ -21,5 +21,5 @@ Automated testing via Protractor.
 ## Notes
 
 * You must have [Chrome](https://www.google.com/chrome/) or [Firefox](https://www.mozilla.org/en-GB/firefox/) installed as your browser in order to run your tests.
-* The VoteOn application is at hosted at http://votingapp.azurewebsites.net - this is where you should direct your testing.
+* The VoteOn application is at hosted at https://votingapp.azurewebsites.net/Poll/#/94df22b2-ecf5-480c-b558-890c93798bc7/Vote/ - this is where you should direct your testing.
 * The application is hosted on Azure using a free account, therefore it can take a while to boot on a cold start. It is therefore wise to navigate to the site in your browser the first time before you run your tests.
