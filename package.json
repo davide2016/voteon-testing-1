@@ -1,0 +1,12 @@
+{
+  "name": "voteon-testing",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "preinstall": "npm i protractor -g",
+    "test": "protractor conf.js"
+  },
+  "author": "",
+  "license": "MIT"
+}
